@@ -5,3 +5,5 @@ added new gallery
 great boostrap grid experience!
 cant merge and push all my commits
 my bash says that everything is -up to date! which its not!
+fixed my repo and added updated folders.
+I was abble to commit.
