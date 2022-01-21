@@ -145,13 +145,29 @@ a {
     background-color: #fff;
 }
 
-
+/* The alert message box */
+.alert {
+    padding: 50px;
+    background-color: #297fa1;
+    color: rgb(228, 10, 39);
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 3.9rem;
+    opacity: 0.2rem;
+    text-align: center;
+  }
 
 .button {
 
 font-size: 8.8px;
+text-align: center;
+margin-left: 60px;
+
+
 
 }
+
+
 
 
 
@@ -265,7 +281,7 @@ $grid-breakpoints (
             
             grid-template-areas:    "header"
                                     "main"
-                                    "sidebar"
+                                    "images"
                                     "footer";
         }
        
@@ -285,7 +301,7 @@ $grid-breakpoints (
         
         grid-template-areas:    "header"
                                 "main"
-                                "sidebar"
+                                "images"
                                 "footer";
     }
    
@@ -307,7 +323,7 @@ $grid-breakpoints (
         
         grid-template-areas:    "header"
                                 "main"
-                                "sidebar"
+                                "images"
                                 "footer";
     }
    
